@@ -4,7 +4,7 @@
 This is an example sketch for ESP8266-12E with DHT22+ PMS3003 (PM2.5 sensor)  
 + 1602/2004A  LCD Display .
 
-Written by alk2986b0952
+Written by alk298
 
 *********************************/ 
 
