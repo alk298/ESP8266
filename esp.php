@@ -1,11 +1,15 @@
 <?php
 
+
 $db_name = "esp";  
  $mysql_user = "root";  
  $mysql_pass = "xxxxxxxx";  
  $server_name = "localhost:xxxx";
 
+//ABC
+
 $con = mysqli_connect($server_name,$mysql_user,$mysql_pass,$db_name); 
+
 
 /*
 $id ="1"; 
